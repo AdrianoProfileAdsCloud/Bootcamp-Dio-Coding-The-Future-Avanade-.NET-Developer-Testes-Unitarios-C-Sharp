@@ -1,7 +1,7 @@
 # Bootcamp Dio - Coding The Future Avanade .NET Developer - Testes Unitarios C#.
 
 ## Desafio de projeto
-Desafio de Projeto simples com pretensão de apresentar os conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
+Desafio de Projeto simples, que visa colocar os conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
 
 ## Contexto
 Você está trabalhando em um sistema, e seus gestores relataram que frequentemente há problemas no software: bugs, funcionalidades que estavam funcionando de repente não funcionam mais, problemas de validações, entre outros. Os clientes já começam a duvidar da qualidade do código.
