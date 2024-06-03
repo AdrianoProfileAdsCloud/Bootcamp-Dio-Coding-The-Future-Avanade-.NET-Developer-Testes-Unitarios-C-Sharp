@@ -1,7 +1,7 @@
 # Bootcamp Dio - Coding The Future Avanade .NET Developer - Testes Unitarios C#.
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
+Desafio de Projeto simples com pretensão de apresentar os conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
 
 ## Contexto
 Você está trabalhando em um sistema, e seus gestores relataram que frequentemente há problemas no software: bugs, funcionalidades que estavam funcionando de repente não funcionam mais, problemas de validações, entre outros. Os clientes já começam a duvidar da qualidade do código.
@@ -75,6 +75,3 @@ O projeto está estruturado da seguinte maneira:
 
 ![Métodos Swagger](Imagens/projeto.png)
 
-
-## Solução
-O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
